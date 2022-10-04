@@ -1,2 +1,2 @@
 # Customer Churn Rate Prediction
-calculates the churn rate prediction of customers of a multi-national bank
+Calculate the churn rate prediction of customers of a multi-national bank
